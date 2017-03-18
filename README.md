@@ -1,6 +1,6 @@
 # Apache CXF Contract First Service Demo
 
-[![Build Status](https://drone.io/github.com/briansjavablog/apache-cxf-demo/status.png)](https://drone.io/github.com/briansjavablog/apache-cxf-demo/latest)
+[![Build Status](https://travis-ci.org/briansjavablog/apache-cxf-demo.svg?branch=master)](https://travis-ci.org/briansjavablog/apache-cxf-demo)
 
 Demo app uses Apache CXF to expose a simple contract first web service. Include intgeration test that deploys and test endpoint using Jetty.
 
